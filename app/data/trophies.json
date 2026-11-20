@@ -1,0 +1,509 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "Base game — the official 55 trophies",
+  "checked": "2026-11-20",
+  "sources": [
+    "Push Square — GTA 6 Trophy Guide & Roadmap (2026-11-18)",
+    "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+    "GamesFuze — GTA 6 Trophy List: All 55 Trophies & Achievements",
+    "AlcastHQ — GTA 6 Trophy List"
+  ],
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "kind": "completion",
+      "spoiler": false,
+      "guide": "The platinum awards itself: it unlocks automatically the moment the other 54 trophies are all earned, so there is nothing to aim at directly. Plan around it instead — campaign first, stranger strands second, then the counters and collectibles — and treat A Long Road (100% completion) as the last big project. If you end up one trophy short, it is almost always a counter that stopped a few short; audit the in-game Progress tabs before hunting anywhere new."
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Finish Gone Fishing, the opening mission of the campaign. It arrives inside your first hour, cannot be skipped or failed permanently, and asks for nothing but playing the intro. A good moment, before Leonida opens up, to settle your aim mode, subtitles and camera settings for the long run ahead."
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Play through to the end of Chapter 1. Chapter trophies are pure story progression: no difficulty setting, side objective or collectible is involved, and there is no way to lock yourself out of one. Follow the story markers until the chapter closes and the trophy lands during the wrap-up."
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Play through to the end of Chapter 2. Like the other chapter trophies this one is unmissable and purely progression-based. By now stranger icons and activity markers are appearing all over the map; feel free to sample them, but know that several strands only become completable after the story introduces their owners."
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Play through to the end of Chapter 3. You are deep into Leonida by this point, so let the travel between story missions do quiet double duty: vehicles discovered, WAiNK scans and shop visits all tick upward on journeys you were making anyway."
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Play through to the end of Chapter 4, the last of the chapter trophies. The finale is still ahead of you, so this is a sensible moment to keep one manual save slot aside for the endgame. Everything left after this point is either the finale itself or free-roam cleanup you can finish at your leisure."
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Finish the final story mission. The credits are the real starting gun of the platinum run, because they unlock the 100% Completion checklist that organises everything else. Nothing becomes unavailable afterwards — you can roam Leonida indefinitely — so there is no need to delay the finale out of caution. One habit worth starting before it: keep a manual save ahead of major story decisions (see Actions Speak Louder)."
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Complete the story mission Breakfast Run. The named-mission trophies arrive as part of the normal campaign flow — there is no separate trigger to find and no way to miss one permanently. When the mission appears, simply play it through to the end."
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Complete the story mission The Cartel Heist, reached through ordinary campaign progression. Arrive with decent weapons and armour and treat it like the heist it is: use cover, let your partner draw attention, and work the objective rather than the crowd. The trophy follows the mission's completion."
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Complete the story mission Child's Play. Like its siblings this bronze is progression-locked rather than skill-locked: reach the mission in the campaign and finish it. If you lose track of where you are in the story, the mission name shown in the pause menu tells you."
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Complete the story mission Headliners, reached through campaign progression. Nothing about it is missable or gated behind difficulty. Think of the twelve named-mission and chapter bronzes as mileposts along the campaign; this is one of the later ones."
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Complete the story mission VCIA Takedown, set around the airport and reached through the campaign. Airport ground is open and exposed, so a fast vehicle and a thought-out exit route make its loud moments much easier to survive."
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "kind": "story",
+      "spoiler": true,
+      "guide": "Complete the story mission Operation Savage Glory, one of the last named missions before the finale. Stock up on armour and ammunition beforehand even if your arsenal feels comfortable by now. Finishing it leaves the endgame — and the gold for the final mission — directly ahead."
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "kind": "completion",
+      "spoiler": false,
+      "guide": "Reach 100% on the in-game completion checklist, which only appears after the credits (Touch Pad, then Progress, then 100% Completion). The checklist is demanding but not total: there are 18 collectible card sets in the game, for example, yet only 15 completed sets count toward the 100%. Work it category by category, and give the longest counters — stunts, challenges, WAiNK scans — steady sessions of their own rather than one marathon at the end."
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Complete 250 unique stunts. Leonida hides 397 of them — 130 stunt jumps, 202 under-bridge flights, 40 knife flights and 25 base jumps — so you need a little over half and can favour whichever type suits you. Discovered stunts are listed under Exploration, then Stunt Spots; bring a fast bike for the jumps and a nimble aircraft for the flying categories. Your running tally lives under Progress, then Activities, then Stunts."
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Start each of the nine activity types at least once: a race, a drone race, a shooting-range challenge, a stunt, a fishing trip, an arcade game and the rest of the sampler. Nothing needs to be won or finished — trying is the whole requirement. Do it early; it teaches you which activities you enjoy before the grindier trophies built on them begin."
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Earn gold in all 42 Shooting Range challenges, split between Rodgers Ranch & Shooting Range in Port Gellhorn and Griffin Shooting Range in Balsero. Most challenges run in three difficulty tiers, and a few stay locked until their conditions are met, which the map notes. Learn one weapon class at a time, and replay a challenge immediately while its layout is still fresh in your hands."
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Win a Top Fun drone race at all 14 locations; the races you have discovered are listed under Activities, then Drones, then Top Fun Drones. Some locations charge an entry fee, so keep a little cash in reserve. Each course only needs beating once — if one keeps defeating you, learn its racing line on a practice run before paying for another attempt."
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Win 20 different races — repeats of the same event do not count, which your tracker under Activities, then Racing makes easy to verify. Hired cars are allowed, but if you bring your own vehicle its Rating matters, and Mod Shop upgrades raise it. Spread the wins across the map as you travel for other trophies and this one largely finishes itself."
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Beat Cal in a fishing challenge. Fairly early on, Cal asks for a Parrotfish weighing over 2kg: sail to the area marked on your map and keep fishing until a big enough catch bites, then hand it over. You need a boat fitted with a fishing rod; if you do not own one yet, plenty of boats nearby can be borrowed the Leonida way."
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Play one arcade game all the way to its end. Cabinets sit inside bars and arcade interiors; pick one, start a game and finish it rather than quitting mid-round, and the bronze lands. It is among the easiest trophies on the list to pick up while exploring on foot."
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Finish Andy's mission strand by completing his final job. A strand is a chain: each of Andy's missions unlocks the next, and the trophy pops when the last one wraps up. If his marker disappears from the map, advance the story or another strand and check again — side strands often wait on campaign beats before offering their next job. His finished strand also counts toward Strangers & Freaks."
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Finish Kenton's mission strand; his chain closes with a job called Maritime Disputes. Work his missions whenever his icon appears, since the finale only unlocks once the earlier jobs in the chain are done. Completing the strand also banks one of the eight finishes that Strangers & Freaks counts."
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Finish Billy's mission strand; his chain ends with a job called Hometown Heroes. His missions unlock one after another, so if the strand seems to stall, push the campaign forward and return. The trophy pops as the finale wraps, and the finished strand counts toward Strangers & Freaks."
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Complete eight qualifying stranger mission strands anywhere in Leonida. The named strands — Andy, Kenton, Billy, Randy, Tyrone, Bret and others — each count, so chasing the individual final-mission bronzes carries you most of the way to this silver. Treat every new stranger icon on the map as a small investment: the requirement is eight finished storylines, not eight single missions."
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Finish Randy's mission strand by completing his final job. Randy's chain revolves around sourcing the vehicles on his wish list, so expect collection-style driving work before the finale unlocks — and deliver his cars intact, because a wish-list vehicle that arrives as scrap helps nobody. His finished strand counts toward Strangers & Freaks."
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Finish Tyrone's mission strand by completing his final job. His chain runs through the Kitty Litter Lab jobs scattered around Leonida; clear them as they surface and the finale follows. If you lose the thread of the strand, his lab locations are the thread to pull. The finished strand counts toward Strangers & Freaks."
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Meditate at all 18 meditation spots across Leonida. A spot only counts once the closing zen animation has played in full, so resist walking away early. Discovered spots appear under Exploration, then Meditate Around Leonida, and your tally lives under Progress, Collections, Exploration, Meditations. Sweep them region by region alongside other collectibles to save on driving."
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "kind": "side",
+      "spoiler": false,
+      "guide": "Hunt the unique animal Bret sends you after. This is one specific animal, not a species quota: follow Bret's strand until the hunt appears, track the target inside the marked area and make the kill cleanly. A scoped rifle and patience are the right tools. Finishing Bret's strand also feeds the Strangers & Freaks count."
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "kind": "world",
+      "spoiler": false,
+      "guide": "Complete 3 full Collectible Card sets. There are 18 sets in the game, and because 100% completion asks for 15 finished sets, this silver arrives naturally on the road to A Long Road. Cards you sell at Pawn Shops still count toward your set progress, so sell spares freely. Your set-by-set progress sits under Progress, then Collections, then Collectible Cards."
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "kind": "world",
+      "spoiler": false,
+      "guide": "Scan 100 locations with WAiNK, the app on either character's phone, opened by holding Up. Scannable spots come in several flavours — 31 landmarks, 35 curiosities and 23 sculptures, plus No Flusher tags — so the pool is comfortably larger than the target. Scan whatever the app flags while you travel; your running count is under Progress, then Collections, then WAiNK Locations."
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "kind": "activities",
+      "spoiler": false,
+      "guide": "Complete 50 of the game's 80 Challenges, the skill-based feats listed under Progress, then Challenges. One caution from the 100% checklist: completion asks for 70, so whenever a challenge is nearly done, push past 50 rather than stopping at the trophy line. Sort by progress, harvest the nearly finished ones first, and leave your weakest categories for last."
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Lose a 4-star Wanted Level while your partner is actively with you, and escape the heat. Build the wanted level together with a few loud crimes, then break line of sight and stay hidden until the stars drain away. The requirement players most often miss is the partnership itself: start the trouble as a duo, not solo with your partner merely standing nearby."
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Rob 3 shops back-to-back with your partner without letting your Wanted Level fully clear between them. Plan a tight triangle of nearby shops beforehand, keep moving, and never let the stars drain to zero until the third till is empty. A fast, durable car parked facing the exit turns each stop into a matter of seconds."
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "kind": "world",
+      "spoiler": false,
+      "guide": "Discover 100 different vehicles. A vehicle counts the moment you get inside it or scan it, so variety is everything: swap cars at every opportunity and try boats, bikes, trucks and aircraft as well. It usually pops during the story without trying; if you are hunting the last few types, your discovered list is under Progress, then Vehicles."
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Take down 5 enemies inside a single use of Combat Focus. Gather a group first — a gang hangout or a police standoff both work — then trigger Combat Focus once and drop five targets before it expires. Aim at clustered enemies first, starting with the ones most likely to scatter or dive into cover."
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Make an unscheduled departure from VCIA, the airport — in plain terms, steal an aircraft and take off without anything resembling permission. Wait for a parked plane on the apron, expect an instant wanted level the moment you board, and climb fast and straight until you are clear of the runways."
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Honest status: not yet community-confirmed. The official description is only a riddle, and no published guide can yet state the exact trigger as verified fact. The riddle points at the Rhino — the army's tank — and at heat, so the working theory is to get inside a Rhino and survive the response it attracts; military hardware is guarded, so expect a fight before the experiment even begins. If a first armoured outing does not pop it, vary what you do in the tank rather than repeating the same run. This entry will be updated when a method is verified; treat anything more specific you read elsewhere as unproven for now."
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Rob a jewelry store without being detected: no alarms tripped, no witness completing a call, no wanted level earned. Scout the staff positions first, move during the gaps in their patrols, and leave by the least-watched door you can find. If a detection indicator starts filling, you have been seen — abandon the attempt and restart it rather than fighting your way out, because a loud exit voids the entire point."
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Rob 5 bank vaults and escape — five separate vaults, and each escape has to actually succeed for the count to move. (One published guide lists this trophy as bronze; its grade is silver, which two other guides and the official six-silver distribution agree on.) Learn one vault's route first, then rotate between banks so the heat pattern changes from job to job. A clean getaway vehicle staged a block away matters more than anything you carry inside: the trophy counts escapes, not entries."
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Rob an armored truck and escape. The trucks follow road routes, so block one with a heavy vehicle, breach the rear doors, grab the cash and vanish before the response escalates. Planning beats firepower here: the escape is the trophy, so save your best car — and your calmest driving — for the getaway."
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "kind": "world",
+      "spoiler": false,
+      "guide": "Explore all of Leonida — all 52 areas of the map uncovered. This is a slow-burn trophy that completes itself if you chase the others honestly, because stunts, scans, cards and strands already drag you into every corner of the state. Near the end, compare your map against the fog: the last grey patches are usually coastline, islands or mountain roads you once drove past at speed."
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Rob an Illegal Operation belonging to each of the 9 gangs. Every gang runs operations somewhere in Leonida; the trick is variety, so hit one operation per gang instead of farming a favourite. Keep a personal tally by gang name as you go — the trophy remembers completions, not your intentions, and a notebook prevents repeat visits when you are eight gangs down and guessing."
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "kind": "secrets",
+      "spoiler": true,
+      "guide": "Take a cocktail at a beachfront spot on Ocean Beach and drink it while looking out at the water. It is a gentle throwback to where this series began, and the trophy rewards the pause rather than the purchase, so actually take in the view. If it does not pop at the first bar, try another spot along the beachfront."
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Steal one of the display cars inside a vehicle showroom and drive it out through the glass, in classic style. Pick a showroom with cars parked near the window front, get in, and accelerate straight through. Expect instant police attention, but the trophy pops on the exit itself — everything after that is just a normal escape."
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "kind": "secrets",
+      "spoiler": true,
+      "guide": "Head to the Kolt & Associates bowling alley and complete its bowling interaction with a proper follow-through — in practice, play the alley's bowling mini-game and finish your throw cleanly rather than dropping the ball. Long-time fans will recognise the joke: a certain cousin from an older game never stopped calling about exactly this."
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "kind": "secrets",
+      "spoiler": true,
+      "guide": "Honest status: not yet community-confirmed. This is one of the cryptic hidden trophies, and published guides still list its exact trigger as unverified. The description points at the partnership between the two protagonists and at something with public appeal. Until a confirmed method settles, the reasonable play is to progress the story with both characters and try their shared activities; every indication says this is a small moment rather than a grind, once the community names it. Anything more specific would be a guess, and this guide does not guess."
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "kind": "secrets",
+      "spoiler": true,
+      "guide": "Honest status: a choice-linked trophy whose precise trigger is still being pinned down by the community. The description ties it to decisions the campaign asks of you — the one-line summary in the official list even notes that PlayStation Network tracks a count of choices up to 500 — so play the story attentively and never mash through a choice prompt. Practical insurance: keep a manual save before major story decisions. If you finish the campaign without it, a decision branch is the place to revisit, and that save will be the reason you can."
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "kind": "secrets",
+      "spoiler": true,
+      "guide": "Honest status: not yet community-confirmed. The description hints at failing once and then succeeding on the retry of the same thing, but players are still verifying exactly which activity it belongs to. The practical takeaway costs nothing: when something in Leonida beats you — a race, a challenge, a stunt — try it again immediately instead of moving on. On the best current reading, the second attempt is the entire point of this trophy."
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "kind": "secrets",
+      "spoiler": true,
+      "guide": "Honest status: not yet community-confirmed — this is the list's true mystery. Even the official description only asks what just happened, and guide writers currently list the unlock method as unknown; nobody has published a verified trigger. Leonida hides strange sights, so the best advice available is behavioural: if something deeply weird happens out there, stay and watch it finish instead of driving off."
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "kind": "crime",
+      "spoiler": false,
+      "guide": "Knock someone down with a melee strike delivered from a moving vehicle — a melee drive-by. Published guides note the precise method is still only partly confirmed, so experiment with the variables: slow-to-medium speed, your target close to the vehicle's side, and the melee ready before you arrive. The name is both the joke and the instruction: your car is the bowling ball."
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "kind": "money",
+      "spoiler": false,
+      "guide": "Earn a cumulative $250,000 by laundering Marked Bills through your contacts. Marked Bills come from robberies; instead of sitting on them, pass them to a laundering contact whenever you are carrying some. There is no deadline, so make laundering a habit after every score and the quarter-million arrives steadily, long before the platinum push."
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "kind": "money",
+      "spoiler": false,
+      "guide": "Spend $100,000 across all shops, in total — quite possibly the easiest trophy in the game. Clothes, food, gear and services all feed the same pot, so there is no wrong purchase; money you were going to spend anyway counts. Shops are marked on the map under Style. If the counter feels slow, you are simply being too frugal for Leonida."
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "kind": "world",
+      "spoiler": false,
+      "guide": "Purchase all 8 garage properties — $160,000 in total — through the Vice City Real Estate app on your phone (hold Up). The eight, cheapest first: Mitchel Auto Center ($4,000), Persistence Road Garage ($7,600), 7th Avenue Garage ($12,000), Store n' Bolt ($16,800), Wyatt Motors ($21,600), Vela Rota Drive Garage ($24,000), Bonita Court Garage ($34,000) and Atlantic Court Garage ($40,000). Each one adds a parking spot, which On the Spot quietly depends on."
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "kind": "world",
+      "spoiler": false,
+      "guide": "Register 10 different vehicles to the Scooter Bros app. Any Pay 'N' Spray or Mod Shop can register the vehicle you are driving — the fee varies with its value — as long as you have an empty parking spot, which the garages from Little Boxes provide. Registered vehicles can later be delivered to you, fully repaired, for a small fee. Ten different vehicles, mind: re-registering a favourite does not move the count."
+    }
+  ]
+}
